@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
