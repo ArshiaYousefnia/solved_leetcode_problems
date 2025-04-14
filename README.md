@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
