@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 ## Union Find
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -97,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
