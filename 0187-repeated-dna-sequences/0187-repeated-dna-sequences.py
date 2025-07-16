@@ -7,8 +7,7 @@ class Solution:
         for i in range(len(s) - 9):
             string = s[i:i + 10]
 
-            if table[string] <= 1:
-                table[string] += 1
+            table[string] += 1
 
         out = []
         for i, val in table.items():
