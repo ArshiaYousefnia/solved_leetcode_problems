@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0179-largest-number) |
 ## Rolling Hash
