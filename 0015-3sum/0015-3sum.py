@@ -1,34 +1,34 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         out = []
-        map = {}
-        occur = {}
         n = len(nums)
-        map[nums[0]] = 1
+        nums.sort()
 
-        for i in range(1, n - 1):
+        for i in range(n - 2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
             a = nums[i]
+            left = i + 1
+            right = n - 1
 
-            seen_bef = {}
-            for j in range(i + 1, n):
-                b = nums[j]
+            while left < right:
+                sum = a + nums[left] + nums[right]
 
-                if b in seen_bef:
-                    continue
-                seen_bef[b] = 1
-                
-                exp = -(a + b)
-                
-                if exp in map:
-                    can = sorted([a, b, exp])
-                    g = str(can)
-                    if g not in occur:
-                        out.append(can)
-                        occur[g] = 1
-                
-            if nums[i] not in map:
-                map[nums[i]] = 1
-            
+                if (sum > 0):
+                    right -= 1
+                elif (sum < 0):
+                    left += 1
+                else:
+                    out.append([a, nums[left], nums[right]])
+                    while left < right and nums[left + 1] == nums[left]:
+                        left += 1
+                    while left < right and nums[right - 1] == nums[right]:
+                        right -= 1
+                    
+                    left += 1
+                    right -= 1
+
         return out
 
         
