@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
 ## String
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 ## Union Find
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
