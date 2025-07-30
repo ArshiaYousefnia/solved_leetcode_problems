@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -131,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
