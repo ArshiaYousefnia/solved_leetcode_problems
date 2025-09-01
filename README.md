@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
