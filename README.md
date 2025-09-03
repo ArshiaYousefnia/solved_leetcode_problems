@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0179-largest-number) |
+| [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
