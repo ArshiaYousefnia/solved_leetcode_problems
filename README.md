@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
