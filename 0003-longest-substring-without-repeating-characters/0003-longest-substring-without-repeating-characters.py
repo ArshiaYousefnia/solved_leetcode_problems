@@ -1,22 +1,21 @@
-from collections import defaultdict
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        occ = defaultdict(int)
-        max_len = 0
-        left = 0
+        last_positions = {}
 
-        for right in range(len(s)):
-            occ[s[right]] += 1
+        dp = 0
 
-            while len(occ.keys()) != (right - left + 1):
-                occ[s[left]] -= 1
-                if occ[s[left]] == 0:
-                    del occ[s[left]]
-                left += 1
+        max_dp = 0
 
-            max_len = max(max_len, right - left + 1)
+        for i, char in enumerate(s):
+            last_position = last_positions.get(char, -1)
 
-        return max_len
+            if i - 1 - dp < last_position:
+                dp = i - last_position
+            else:
+                dp = dp + 1
 
-            
+            max_dp = max(max_dp, dp)
+
+            last_positions[char] = i
+
+        return max_dp
