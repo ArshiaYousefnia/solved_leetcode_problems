@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
