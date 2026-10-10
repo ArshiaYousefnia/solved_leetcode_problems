@@ -1,26 +1,21 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        n = len(nums)
-        combined = zip(nums, [i for i in range(n)])
-        combined = sorted(combined)
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        nums = [(j, i) for i, j in enumerate(nums)]
+        nums.sort()
 
-        a, b = zip(*combined)
+        start = 0
+        end = len(nums) - 1
 
-        a = list(a)
-        b = list(b)
+        while (start < end):
+            result = nums[start][0] + nums[end][0]
 
-
-        left = 0
-        right = n - 1
-
-        while left < right:
-            sum = a[left] + a[right]
-
-            if sum > target:
-                right -= 1
-            elif sum < target:
-                left += 1
+            if result == target:
+                return [nums[start][1], nums[end][1]]
+            
+            if result < target:
+                start = start + 1
             else:
-                return [b[left], b[right]]
+                end = end - 1
         
-        return []
+        return [-1, -1]
+        
