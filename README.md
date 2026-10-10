@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0187-repeated-dna-sequences) |
