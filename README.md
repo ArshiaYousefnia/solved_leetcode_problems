@@ -190,14 +190,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
