@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
