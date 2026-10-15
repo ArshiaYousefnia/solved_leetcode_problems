@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,8 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
