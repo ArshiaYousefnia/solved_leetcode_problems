@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/1143-longest-common-subsequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
