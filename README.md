@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ArshiaYousefnia/solved_leetcode_problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
